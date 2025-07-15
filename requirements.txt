@@ -1,4 +1,4 @@
-tensorflow>=2.16.1  # First version with Python 3.13 support
+tensorflow==2.16.1  # First version with Python 3.13 support
 pandas>=2.1.0
 numpy>=1.24.0
 scikit-learn>=1.3.0
